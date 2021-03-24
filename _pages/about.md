@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: PhD candidate in Economics | <a href="https://warwick.ac.uk/fac/soc/economics/">University of Warwick</a>
+description: PhD candidate in Economics | [University of Warwick](https://warwick.ac.uk/fac/soc/economics/){:target="\_blank"}.
 
 profile:
   align: right
