@@ -21,6 +21,3 @@ social: true  # includes social icons at the bottom of the page
 Hi there! This website is under construction. You might want to check back later.
 For the moment you can visit [my Warwick website](https://warwick.ac.uk/fac/soc/economics/staff/rdegasperi/){:target="\_blank"}.
 
-
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
