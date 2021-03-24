@@ -2,7 +2,7 @@
 layout: page
 permalink: /vitae/
 title: vitae
-description:
+description: Curriculum vitae and personal details.
 nav: true
 ---
 
