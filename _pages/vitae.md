@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /vitae/
-title: Vitae
+title: vitae
 description:
 nav: true
 ---
