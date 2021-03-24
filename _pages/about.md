@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-description: PhD candidate in Economics | [University of Warwick](https://warwick.ac.uk/fac/soc/economics/){:target="\_blank"}.
+description: PhD candidate in Economics | <a href="https://warwick.ac.uk/fac/soc/economics/">University of Warwick</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
     <p>Office: S1.112</p>
-    <p>University of Warwick,</p>
     <p>Social Sciences Building,</p>
+    <p>University of Warwick,</p>
     <p>Coventry, UK</p>
 
 news: false  # includes a list of news items
@@ -21,6 +21,6 @@ social: true  # includes social icons at the bottom of the page
 Hi there! This website is under construction. You might want to check back later.
 For the moment you can visit [my Warwick website](https://warwick.ac.uk/fac/soc/economics/staff/rdegasperi/){:target="\_blank"}.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
