@@ -5,6 +5,7 @@ title: vitae
 description: Curriculum vitae and personal details.
 nav: true
 ---
+<br />
 
 ### Education
 Since 2018: PhD in Economics, University of Warwick
