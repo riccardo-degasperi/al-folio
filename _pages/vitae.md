@@ -27,12 +27,6 @@ Prof. Giovanni Ricco (supervisor), University of Warwick -- <G.Ricco@warwick.ac.
 
 Prof. Ivan Petrella (supervisor), Warwick Business School -- <Ivan.Petrella@wbs.ac.uk>
 
-<b />
-
-<b>
-  
----
-
 ***
 
 You can download my full CV [here](../assets/cv/CV_Degasperi_29_09_2020.pdf){:target="\_blank"}.
