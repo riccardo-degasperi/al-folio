@@ -21,4 +21,4 @@ nav: true
 #### References
 
 
-You can download my full CV [here](./assets/pdf/CV_Degasperi_29_09_2020.pdf){:target="\_blank"}.
+You can download my full CV [here](../assets/pdf/CV_Degasperi_29_09_2020.pdf){:target="\_blank"}.
