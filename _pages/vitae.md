@@ -6,18 +6,7 @@ description: Curriculum vitae and personal details.
 nav: true
 ---
 
-# Test 1
-
-## Test 2
-
-### Test 3
-
-#### Test 4
-
-##### Test 5
-
-
-#### Education
+## Education
 Since 2018: PhD in Economics, University of Warwick
 
 2016--2018: MRes in Economics, University of Warwick -- *distinction*
@@ -26,13 +15,13 @@ Since 2018: PhD in Economics, University of Warwick
 
 2009--2013: BSc in International Relations, University of Trieste -- *cum laude*
 
-#### Experience
+## Experience
 2020: PhD Traineeship, European central Bank, International Policy Analysis
 
 2019: Research Assistant, NIESR, London
 
 
-#### References
+## References
 Prof. Giovanni Ricco (supervisor), University of Warwick -- <G.Ricco@warwick.ac.uk>
 
 Prof. Ivan Petrella (supervisor), Warwick Business School -- <Ivan.Petrella@wbs.ac.uk>
