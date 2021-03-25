@@ -27,6 +27,11 @@ Prof. Giovanni Ricco (supervisor), University of Warwick -- <G.Ricco@warwick.ac.
 
 Prof. Ivan Petrella (supervisor), Warwick Business School -- <Ivan.Petrella@wbs.ac.uk>
 
+<b />
+
+<b>
+  
+---
 
 ***
 
