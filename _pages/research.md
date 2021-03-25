@@ -5,19 +5,16 @@ title: research
 description: Publications, working papers, and work in progress.
 nav: true
 ---
-<br />
 
 ### Job Market Paper
 
 (coming soon...)
 
-<br />
 
 ### Working Papers
 
-The Global Transmission of U.S. Monetary Policy (with S. Hong and G. Ricco) [[paper]](../assets/papers/GlobalUSMonetaryShocks.pdf) [[appendix]](../assets/papers/GlobalUSMonetaryShocks_Appendix.pdf)
+The Global Transmission of U.S. Monetary Policy (with S. Hong and G. Ricco) [[paper]](../assets/papers/GlobalUSMonetaryShocks.pdf){:target="\_blank"} [[appendix]](../assets/papers/GlobalUSMonetaryShocks_Appendix.pdf){:target="\_blank"}
 
-<br />
 
 ### Work in progress
 
