@@ -15,7 +15,7 @@ nav: true
 
 ### Working Papers
 
-The Global Transmission of U.S. Monetary Policy (with S. Hong and G. Ricco) [[paper]](../assets/pdf/GlobalUSMonetaryShocks.pdf) [[appendix]](../assets/pdf/GlobalUSMonetaryShocks_Appendix.pdf)
+The Global Transmission of U.S. Monetary Policy (with S. Hong and G. Ricco) [[paper]](../assets/papers/GlobalUSMonetaryShocks.pdf) [[appendix]](../assets/papers/GlobalUSMonetaryShocks_Appendix.pdf)
 
 <br />
 
