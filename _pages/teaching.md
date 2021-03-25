@@ -12,7 +12,7 @@ nav: true
     <li><a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/" target="blank">EC226: Econometrics 1</a> (undergraduate) with Prof. Jeremy Smith.</li>
 </ul>
 
-[Commendee](https://warwick.ac.uk/fac/cross_fac/academic-development/wate/wate1920) for the 2020 Warwick Awards for Teaching Excellence for Postgraduates who Teach.
+[Commendee](https://warwick.ac.uk/fac/cross_fac/academic-development/wate/wate1920){:target="\_blank"} for the 2020 Warwick Awards for Teaching Excellence for Postgraduates who Teach.
 
 <hr>
 
