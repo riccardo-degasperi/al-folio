@@ -6,9 +6,9 @@ description: Teaching material, assignments, solutions, and more interesting stu
 nav: true
 ---
 
-#### 2019--2020:
+#### 2019--2020
 <ul>
-    <li>[EC9A3: Advanced Econometric Theory](https://warwick.ac.uk/fac/soc/economics/current/modules/ec9a3/) (PhD) with Prof. Giovanni Ricco</li>
+    <li><a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec9a3/" target="blank">EC9A3: Advanced Econometric Theory</a> (PhD) with Prof. Giovanni Ricco</li>
     <li>[EC226: Econometrics 1](https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/) (undergraduate) with Prof. Jeremy Smith.</li>
 </ul>
 
@@ -16,7 +16,7 @@ nav: true
 
 <hr>
 
-#### 2018--2019:
+#### 2018--2019
 <ul>
     <li>[EC226: Econometrics 1](https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/) (undergraduate) with Prof. Jeremy Smith.</li>
 </ul>
