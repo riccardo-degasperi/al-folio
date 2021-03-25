@@ -20,3 +20,6 @@ nav: true
 <ul>
     <li><a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/" target="blank">EC226: Econometrics 1</a> (undergraduate) with Prof. Jeremy Smith.</li>
 </ul>
+
+***
+To book an Advice & Feedback slot, click <a href="https://rdegasperi.youcanbook.me" target="_blank">here</a>.
