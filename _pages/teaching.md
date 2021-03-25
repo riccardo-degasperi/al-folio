@@ -23,6 +23,5 @@ nav: true
 
 ***
 
-<div class="publications">
 To book an Advice & Feedback slot, click <a href="https://rdegasperi.youcanbook.me" target="_blank">here</a>.
-</div>
+
