@@ -23,9 +23,9 @@ Since 2018: PhD in Economics, University of Warwick
 
 
 ### References
-Prof. Giovanni Ricco (supervisor), University of Warwick -- <G.Ricco@warwick.ac.uk>
+Prof. [Giovanni Ricco](https://www.giovanni-ricco.com/){:target="\_blank"} (supervisor), University of Warwick -- <G.Ricco@warwick.ac.uk>
 
-Prof. Ivan Petrella (supervisor), Warwick Business School -- <Ivan.Petrella@wbs.ac.uk>
+Prof. [Ivan Petrella](https://sites.google.com/a/ivanpetrella.com/www/){:target="\_blank"} (supervisor), Warwick Business School -- <Ivan.Petrella@wbs.ac.uk>
 
 ***
 
