@@ -57,7 +57,7 @@ wikidata_id: # your wikidata id
 contact_note: >
   To book an Advice & Feedback slot, click <a href="https://rdegasperi.youcanbook.me" target="_blank">here</a>.
 
-google_analytics: G-HX6J4VTXTS # out your google-analytics code
+google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
