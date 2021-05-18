@@ -22,7 +22,7 @@ Hi there! This website is under construction. You might want to check back later
 For the moment you can visit [my Warwick website](https://warwick.ac.uk/fac/soc/economics/staff/rdegasperi/){:target="\_blank"}.
 
 ## Bio
-Here is where I'm gonna write an extremely compelling bio. Try refreshing, maybe you are lucky and it will pop up!
+I am a PhD candidate in Economics at the University of Warwick.
 
 ## Research interests
 Macroeconomics, International Economics, Monetary Policy, Time Series Econometrics, Housing
